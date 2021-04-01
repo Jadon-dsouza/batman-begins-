@@ -17,8 +17,6 @@ function setup(){
  world = engine.world;
    
     
-}
-
 function draw(){
  raindrop.display();
 }   
